@@ -1,4 +1,5 @@
-#Das ist mein erstes Bash-Skript.
+# Author: Michèle Robrecht
+# Das ist mein erstes Bash-Skript.
 
 echo "Skript startet"
 
