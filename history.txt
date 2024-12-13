@@ -1,0 +1,257 @@
+    1  git config --global user.name "Michèle Robrecht"
+    2  git config --global user.email "michele.robrecht@ipt.fraunhofer.de"
+    3  git config --global user.name
+    4  git config --global user.email
+    5  cd Test Git/
+    6  cd Testprojekt/
+    7  cd Testprojekt/
+    8  git init
+    9  cd C:/Users/rbm/Desktop/Testprojekt
+   10  git init
+   11  cd C:/Users/rbm/Desktop/Testprojekt Git
+   12  cd C:/Users/rbm/Desktop/Testprojekt_Git
+   13  init git
+   14  git init
+   15  Desktop/Testprojekt_Gpwd
+   16  pwd
+   17  cd..
+   18  cd ..
+   19  cd ..
+   20  cd ..
+   21  cd /c/Users/rbm/Desktop/Testprojekt_Git
+   22  git init
+   23  git add Blabla.txt
+   24  git add blabla.txt
+   25  git commit -m "Unser erster Commit!"
+   26  git commit -m "Unser zweiter Commit!"
+   27  git add blabla.txt
+   28  git committ -m "Unser zweiter Commit!"
+   29  git commit -m "Unser zweiter Commit!"
+   30  git log
+   31  nano index.html
+   32  ptc
+   33  log
+   34  git log
+   35  cd /Users/rbm/Desktop/Testprojekt_Git
+   36  pwd
+   37  cd c/Users/rbm/Desktop/Testprojekt_Git
+   38  cd ..
+   39  cd ..
+   40  cd ..
+   41  c/Users/rbm/Desktop/Testprojekt_Git
+   42  pwd
+   43  cd c/Users/rbm/Desktop/Testprojekt_Git
+   44  git status
+   45  nano index.html
+   46  git add index.html
+   47  git commit -m "Test"
+   48  git status
+   49  git status
+   50  git add index.html
+   51  git status
+   52  git commit -m "Änderung"
+   53  git diff index.html
+   54  git diff index.html
+   55  git add index.html
+   56  git commit -m "Weitere Änderungen"
+   57  git diff index.html
+   58  cd ..
+   59  mkdir workshop
+   60  cd workshop
+   61  git clone 
+   62  git clone https://gitlab.com/MicheleRobrecht/gitlab-workshop.git
+   63  cd gitlab-workshop
+   64  git add File.txt
+   65  git commit File.txt -m "Datei angelegt"
+   66  git add
+   67  git add .
+   68  git add README.md
+   69  git add READMME.md
+   70  git add README.md
+   71  git add .
+   72  git commit
+   73  pwd
+   74  cd Desktop/workshop/gitlab-workshop
+   75  git add .
+   76  git add README.md
+   77  git remote add origion https://gitlab.com/MicheleRobrecht/gitlab-workshop.git
+   78  git branch -M main
+   79  git push -uf origin main
+   80  git add README.md
+   81  git cd
+   82  git cd..
+   83  cd..
+   84  git clone https://gitlab.com/DHaf_UDE/gittactoe_dplus1.git
+   85  cd gittactoe_dplus1/
+   86  nano round_1.txt 
+   87  git add .
+   88  git commit - "Round 1 Zug X"
+   89  git commit -m "Runde 1 Zug X"
+   90  git push
+   91  git pull
+   92  nano round_1.txt 
+   93  git add
+   94  git add .
+   95  git commit -m "Runde 2 Zug X"
+   96  git push
+   97  git pull
+   98  nano round_1.txt 
+   99  git add .
+  100  git commit -m "Zug für Merge-Konflik"
+  101  git pull
+  102  git push
+  103  git pull
+  104  nano round_1.txt 
+  105  ls desktop/shell-leson
+  106  ls desktop/sell-lesson
+  107  jupyter notebook
+  108  git
+  109  ls -a
+  110  rm -rf .git
+  111  ls Desktop/shell-lesson
+  112  ls Desktop/shell-lesson
+  113  pwd
+  114  ls
+  115  ls
+  116  ls -l
+  117  ls -lh
+  118  cd Desktop
+  119  pwd
+  120  ls
+  121  cd lskdjf
+  122  cd
+  123  pwd
+  124  cd Desktop/
+  125  cd Desktop/shell-lesson
+  126  cd Desktop
+  127  cd
+  128  pwd
+  129  cd Desktop
+  130  cd Desktop/
+  131  cd
+  132  cd Desktop
+  133  cd Desktop$ ls
+  134  cd Desktop
+  135  cd
+  136  cd Desktop
+  137  cd Desktop/shell-lesson
+  138  cd Desktop
+  139  cd
+  140  cd Desktop
+  141  cd shell-lesson
+  142  ls -a
+  143  cd ..
+  144  cd ..
+  145  pwd
+  146  cd Desktop/shell-lesson
+  147  pwd
+  148  cd /c/Users/rbm/Desktop/
+  149  cd Desktop/shell-lesson
+  150  cd /c/Users/rbm/Desktop/shell-lesson/
+  151  ls
+  152  ls 201403160_01_text.json 
+  153  mkdir firstdir
+  154  ls
+  155  cd firstdir/
+  156  cd ..
+  157  ls
+  158  cat 829-0.txt 
+  159  hat 829-0.txt 
+  160  head 829-0.txt 
+  161  tail 829-0.txt 
+  162  less 829-0.txt 
+  163  head 33504-0.txt 829-0.txt pg514.txt 
+  164  firefox
+  165  Firefox
+  166  FIREFOX
+  167  open firefox
+  168  ls +txt
+  169  ls *txt
+  170  head *txt
+  171  ls *JA-a*
+  172  mv 829-0.txt gulliver.txt
+  173  ls
+  174  mv gulliver.txt firstdir/
+  175  ls firstdir/
+  176  mv firstdir/gulliver.txt .
+  177  ls
+  178  cp gulliver.txt gulliver-backup.txt 
+  179  ls
+  180  rm gulliver-backup.txt 
+  181  ls
+  182  echo "Hi there"
+  183  NAME="Michèle"
+  184  echo $NAME
+  185  echo "Hi $NAME"
+  186  touch a.txt b.txt c.txt d.txt
+  187  ls
+  188  for FILE_NAME in a.txt b.txt c.txt d.txt; do echo $FILE_NAME; cp $FILE_NAME Backup-$FILE_NAME; done
+  189  ls
+  190  ls
+  191  less 2014-01-31_JA-africa.tsv 
+  192  less -S 2014-01-31_JA-africa.tsv 
+  193  wc *.tsv
+  194  wc -l *.tsv
+  195  wc -l *.tsv > lengths.txt
+  196  ls
+  197  sort -n lengths.txt 
+  198  sort -n lengths.txt > sorted_lenghts.txt
+  199  ls
+  200  cat sorted_lenghts.txt 
+  201  head -n 1 sorted_lenghts.txt 
+  202  head -n 1 sorted_lenghts.txt > result.txt
+  203  ls
+  204  wc -l *tsv | sort -n | head -n 1
+  205  echo "Mein Ergebis" >> result.txt 
+  206  less -S 2014-01-31_JA-africa.tsv 
+  207  grep 1999 *tsv
+  208  grep -c 1999 *tsv
+  209  grep - revolution *.tsv
+  210  grep -c revolution *.tsv
+  211  grep -ci revolution *.tsv
+  212  grep --help
+  213  nano mein_bash_skript.sh
+  214  cat mein_bash_skript.sh 
+  215  bash mein_bash_skript.sh
+  216  history
+  217  history > history.txt
+  218  ls
+  219  mkdir 2024-11-29-ZK_FDM_Michèle_Robrecht
+  220  ls
+  221  mv mein_bash_skript.sh 2024-11-29-ZK_FDM_Michèle_Robrecht/
+  222  cd 2024-11-29-ZK_FDM_Michèle_Robrecht/
+  223  ls -a
+  224  git config --global user.name "Michèle Robrecht"
+  225  git config --global user.email "michele.robrecht@ipt.fraunhofer.de"
+  226  git init
+  227  ls -a
+  228  git status
+  229  git add mein_bash_skript.sh 
+  230  git status
+  231  git commit -m "Initial commit"
+  232  git status
+  233  touch README.md
+  234  README.md
+  235  nano README.md
+  236  cat README.md 
+  237  git status
+  238  nano mein_bash_skript.sh 
+  239  cat mein_bash_skript.sh 
+  240  git status
+  241  git add *
+  242  git status
+  243  git commit -m "Add README.md + Update shell script"
+  244  git log
+  245  git dif 051a18d72c20ac9f9df3214014d16c435a772189 0a2a0dd916245da2e9023fb0e3ce608b34047b42
+  246  git diff 051a18d72c20ac9f9df3214014d16c435a772189 0a2a0dd916245da2e9023fb0e3ce608b34047b42
+  247  git diff 0a2a0dd916245da2e9023fb0e3ce608b34047b42 051a18d72c20ac9f9df3214014d16c435a772189
+  248  emacs README.md
+  249  ssh-keygen -t rsa -b 4096 -C "michele.robrecht@ipt.fraunhofer.de"
+  250  cat ~/.ssh/id_rsa.pub
+  251  pwd
+  252  ls
+  253  git remote add origin git@github.com:MRobrecht/2024-11-29-ZK_FDM_Michele_Robrecht.git
+  254  git branch -M main
+  255  git push -u origin main
+  256  history
+  257  history > history.txt
